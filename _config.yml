@@ -28,7 +28,7 @@ twitter_username: bmuyl
 github_username:  bmuyl
 
 # Build settings
-theme: jekyll-theme-cayman
+theme: minima
 plugins:
   - jekyll-feed
 
