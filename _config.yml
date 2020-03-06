@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: BMD Simulation tools
+title: Meta Simulation tools
 email: bmuyl@mac.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Simple description of simulation toos developped by BMD's team
+  Simple descriptions of the Meta simulation tools developped by BMD's team
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: bmuyl
