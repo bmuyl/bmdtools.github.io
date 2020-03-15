@@ -12,7 +12,7 @@
  
  [![MetaOptimalPath](https://github.com/bmuyl/assets/blob/master/Logos/Meta-Cosme/MetaOptimalPathLogo.png?raw=true){:height="60px" width="60px"}](\2020\02\01\MetaOptimalPath.html)
 
-**MetaOptimalPath** is an tool for optimising trajectories of parameters of a system along time. **MetaOptimalPath** is under active development.
+**MetaOptimalPath** is a tool for optimising trajectories of parameters of a system along time. **MetaOptimalPath** is under active development.
 Although we use it for boat design in our daily work, it is actually agnostic on the type of system it's dealing with.
 Motor boats, sailing boats, Flying Drones, submarines, planes.. can all be adressed with Meta.
 
