@@ -12,5 +12,5 @@
 | [![Neptune](https://github.com/bmuyl/assets/blob/master/Logos/Meta-Cosme/NeptuneLogo.png?raw=true){:height="60px" width="60px"}](\2020\02\01\Neptune.html)
 | [![CliMax](https://github.com/bmuyl/assets/blob/master/Logos/Meta-Cosme/CliMaxLogo.png?raw=true){:height="60px" width="60px"}](\2020\02\01\CliMax.html)
 | [![FoilPerf](https://github.com/bmuyl/assets/blob/master/Logos/Meta-Cosme/FoilPerfLogo.png?raw=true){:height="60px" width="60px"}](\2020\02\01\FoilPerf.html)
-| [![HydroRans](https://github.com/bmuyl/assets/blob/master/Logos/Meta-Cosme/HydroRansLogo.png?raw=true){:height="60px" width="60px"}](\2020\02\01\HydroRans.html)
-| [![AeroRans](https://github.com/bmuyl/assets/blob/master/Logos/Meta-Cosme/AeroRansLogo.png?raw=true){:height="60px" width="60px"}](\2020\02\01\AeroRans.html)
+| [![HydroRans](https://github.com/bmuyl/assets/blob/master/Logos/Meta-Cosme/HydroRansLogo.png?raw=true){:height="60px" width="60px"}](\2020\02\01\HydroRANS.html)
+| [![AeroRans](https://github.com/bmuyl/assets/blob/master/Logos/Meta-Cosme/AeroRansLogo.png?raw=true){:height="60px" width="60px"}](\2020\02\01\AeroRANS.html)
