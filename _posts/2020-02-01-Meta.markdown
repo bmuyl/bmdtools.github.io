@@ -1,11 +1,22 @@
-# Meta
 
-![Meta](C:\Users\bmuyl\Repositories\assets\Logos\Meta-Cosme\LogoMeta.png)
+[![Meta](https://github.com/bmuyl/assets/blob/master/Logos/Meta-Cosme/MetaLogo.png?raw=true){:height="60px" width="60px"}](\2020\02\01\Meta.html)
+| [![MetaOptimalPath](https://github.com/bmuyl/assets/blob/master/Logos/Meta-Cosme/MetaOptimalPathLogo.png?raw=true){:height="60px" width="60px"}](\2020\02\01\MetaOptimalPath.html)
+| [![MetaSim](https://github.com/bmuyl/assets/blob/master/Logos/Meta-Cosme/MetaSimLogo.png?raw=true){:height="60px" width="60px"}](\2020\02\01\MetaSim.html)
+| [![Neptune](https://github.com/bmuyl/assets/blob/master/Logos/Meta-Cosme/NeptuneLogo.png?raw=true){:height="60px" width="60px"}](\2020\02\01\Neptune.html)
+| [![CliMax](https://github.com/bmuyl/assets/blob/master/Logos/Meta-Cosme/CliMaxLogo.png?raw=true){:height="60px" width="60px"}](\2020\02\01\CliMax.html)
+| [![FoilPerf](https://github.com/bmuyl/assets/blob/master/Logos/Meta-Cosme/FoilPerfLogo.png?raw=true){:height="60px" width="60px"}](\2020\02\01\FoilPerf.html)
+| [![HydroRans](https://github.com/bmuyl/assets/blob/master/Logos/Meta-Cosme/HydroRansLogo.png?raw=true){:height="60px" width="60px"}](\2020\02\01\HydroRans.html)
+| [![AeroRans](https://github.com/bmuyl/assets/blob/master/Logos/Meta-Cosme/AeroRansLogo.png?raw=true){:height="60px" width="60px"}](\2020\02\01\AeroRans.html)
 
 
-Meta is our Velocity Prediction Program (VPP).
+<br/>
+ 
+ 
+ [![Meta](https://github.com/bmuyl/assets/blob/master/Logos/Meta-Cosme/MetaLogo.png?raw=true){:height="60px" width="60px"}](\2020\02\01\Meta.html)
 
-It is our tool for finding optimum static equilibriums.
+**Meta** is a Static Velocity Prediction Program (VPP).
+
+It is a tool for finding optimum static equilibriums.
 Although we use it for boat design in our daily work, it is actually agnostic on the type of mobile it's dealing with.
 Motor boats, sailing boats, Flying Drones, submarines, planes.. can all be adressed with Meta.
 
@@ -21,4 +32,4 @@ It's now in a stable state.
 
 
 
-# Back To  [BenjaminMuylDesign Website](https://www.bmuyl.com)
+###### Visit  [BenjaminMuylDesign Website](https://www.bmuyl.com)

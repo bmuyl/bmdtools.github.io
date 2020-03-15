@@ -10,10 +10,25 @@
 
 <br/>
  
- 
- [![HydroRans](https://github.com/bmuyl/assets/blob/master/Logos/Meta-Cosme/HydroRansLogo.png?raw=true){:height="60px" width="60px"}](\2020\02\01\HydroRans.html)
 
-**Hydrorans** is  yet to be started 
+ [![CliMax](https://github.com/bmuyl/assets/blob/master/Logos/Meta-Cosme/CliMaxLogo.png?raw=true){:height="60px" width="60px"}](\2020\02\01\CliMax.html)
+
+
+**CliMax** is a tool for exploring foil section design space and opimising sections.
+
+Some of the major features:
+- xfoil based
+- Azure cloud based
+- Evolutionnary algorithm based ( NSGA II and NSGA III, PSO... )
+- multiobjectives
+
+
+
+CliMax's development started in 2018
+
+
+
+
 
 
 ###### Visit  [BenjaminMuylDesign Website](https://www.bmuyl.com)

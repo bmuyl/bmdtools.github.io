@@ -1,15 +1,30 @@
-# Neptune
 
-![Neptune](C:\Users\bmuyl\Repositories\assets\Logos\Meta-Cosme\LogoNeptune.png)
 
-Neptune is our batch routing software for comparing boats on Ocean courses.
+
+[![Meta](https://github.com/bmuyl/assets/blob/master/Logos/Meta-Cosme/MetaLogo.png?raw=true){:height="60px" width="60px"}](\2020\02\01\Meta.html)
+| [![MetaOptimalPath](https://github.com/bmuyl/assets/blob/master/Logos/Meta-Cosme/MetaOptimalPathLogo.png?raw=true){:height="60px" width="60px"}](\2020\02\01\MetaOptimalPath.html)
+| [![MetaSim](https://github.com/bmuyl/assets/blob/master/Logos/Meta-Cosme/MetaSimLogo.png?raw=true){:height="60px" width="60px"}](\2020\02\01\MetaSim.html)
+| [![Neptune](https://github.com/bmuyl/assets/blob/master/Logos/Meta-Cosme/NeptuneLogo.png?raw=true){:height="60px" width="60px"}](\2020\02\01\Neptune.html)
+| [![CliMax](https://github.com/bmuyl/assets/blob/master/Logos/Meta-Cosme/CliMaxLogo.png?raw=true){:height="60px" width="60px"}](\2020\02\01\CliMax.html)
+| [![FoilPerf](https://github.com/bmuyl/assets/blob/master/Logos/Meta-Cosme/FoilPerfLogo.png?raw=true){:height="60px" width="60px"}](\2020\02\01\FoilPerf.html)
+| [![HydroRans](https://github.com/bmuyl/assets/blob/master/Logos/Meta-Cosme/HydroRansLogo.png?raw=true){:height="60px" width="60px"}](\2020\02\01\HydroRans.html)
+| [![AeroRans](https://github.com/bmuyl/assets/blob/master/Logos/Meta-Cosme/AeroRansLogo.png?raw=true){:height="60px" width="60px"}](\2020\02\01\AeroRans.html)
+
+
+<br/>
+ 
+ 
+ [![Neptune](https://github.com/bmuyl/assets/blob/master/Logos/Meta-Cosme/NeptuneLogo.png?raw=true){:height="60px" width="60px"}](\2020\02\01\Neptune.html)
+
+
+**Neptune** is our batch routing software for comparing boats on Ocean courses.
 
 Some of the major features:
 - Azure cloud based
 - isochrones based
 
 
-SectionOptimiser's development started in 2013, in a collaboration with Xavier Pillon. It has since been ported to Azure Cloud.
+**Neptune**'s development started in 2013, in a collaboration with Xavier Pillon. It has since been ported to Azure Cloud.
 
 
-# Back To  [BenjaminMuylDesign Website](https://www.bmuyl.com)
+###### Visit  [BenjaminMuylDesign Website](https://www.bmuyl.com)
