@@ -21,7 +21,7 @@
 title: Meta Simulation tools
 email: bmuyl@mac.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Simple descriptions of the Meta simulation tools developped by BMD's team
+  Simulation tools developped by BMD's team
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: bmuyl
