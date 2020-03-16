@@ -14,7 +14,7 @@
  [![CliMax](https://github.com/bmuyl/assets/blob/master/Logos/Meta-Cosme/CliMaxLogo.png?raw=true){:height="60px" width="60px"}](\2020\02\01\CliMax.html)
 
 
-**CliMax** is a tool for exploring foil section design space and opimising sections.
+**CliMax** is a tool for exploring foil section design space and optimising sections.
 
 Some of the major features:
 - xfoil based
