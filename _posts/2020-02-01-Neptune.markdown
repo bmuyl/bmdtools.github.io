@@ -35,6 +35,7 @@
 - Defining the number of cloud machines to be used
 
 ***Typical Outputs***
+
 [![AeroRANS](\images\2020\02\Neptune\Routes.png?raw=true){:width="150px" }](\images\2020\02\Neptune\Routes.png)
 |[![AeroRANS](\images\2020\02\Neptune\WindDistribution.png?raw=true){:width="150px"}](\images\2020\02\Neptune\WindDistribution.png)
 |[![AeroRANS](\images\2020\02\Neptune\Stats_1.png?raw=true){:width="150px"}](\images\2020\02\Neptune\Stats_1.png)
