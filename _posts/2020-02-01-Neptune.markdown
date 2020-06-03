@@ -21,19 +21,18 @@
 
 ***Major features***
 - Azure batch cloud based
-- isochrones based
-- exclusion zones and ground aware
-- Gui less
-- File based efficient setup
+- Isochrones based
+- Exclusion zones and ground aware
+- Gui less, file based efficient setup
 - Scripted potprocessing and and Latex based reporting
 
 ***Typical setup***
-- defining a start date and offsets
-- defining a set of boat performance polars
-- adjusting % of boat performance to accomodate single handed sailing for example
-- defining waypoint and related threshold
-- defining exclusion zones
-- defining the number of cloud machines to be used
+- Defining a start date and offsets
+- Defining a set of boat performance polars
+- Adjusting % of boat performance to accomodate single handed sailing for example
+- Defining waypoint and related threshold
+- Defining exclusion zones
+- Defining the number of cloud machines to be used
 
 ***Typical Outputs***
 
