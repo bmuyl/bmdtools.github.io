@@ -12,17 +12,31 @@
 
 
 <br/>
- 
- 
+
+
  [![Neptune](https://github.com/bmuyl/assets/blob/master/Logos/Meta-Cosme/NeptuneLogo.png?raw=true){:height="60px" width="60px"}](\2020\02\01\Neptune.html)
 
 
 **Neptune** is our batch routing software for comparing boats on Ocean courses.
 
-Some of the major features:
-- Azure cloud based
+***Major features***
+- Azure batch cloud based
 - isochrones based
+- exclusion zones and ground aware
+- Gui less
+- File based efficient setup
+- Scripted potprocessing and and Latex based reporting
 
+***Typical setup***
+- defining a start date and offsets
+- defining a set of boat performance polars
+- adjusting % of boat performance to accomodate single handed sailing for example
+- defining waypoint and related threshold
+- defining exclusion zones
+- defining the number of cloud machines to be used
+
+***Typical Outputs***
+| [![AeroRANS](\images\2020\02\Routes.png?raw=true){:height="60px" width="60px"}](\2020\02\01\AeroRANS.html)
 
 **Neptune**'s development started in 2013, in a collaboration with Xavier Pillon. It has since been ported to Azure Cloud.
 
