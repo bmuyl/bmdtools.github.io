@@ -24,7 +24,7 @@
 - Isochrones based
 - Exclusion zones and ground aware
 - Gui less, file based efficient setup
-- Scripted potprocessing and and Latex based reporting
+- Scripted potprocessing and Latex based reporting
 
 ***Typical setup***
 - Defining a start date and offsets
