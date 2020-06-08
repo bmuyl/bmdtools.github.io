@@ -18,20 +18,23 @@
 
 ***Major features***
 - xfoil based
-- ability to optimise flap'ed sections
+- Ability to optimise flap'ed sections
 - Azure cloud based
 - Evolutionnary algorithm based ( NSGA II and NSGA III, PSO... )
 - multiobjectives
+- GUI Less, text based efficient setup
 
 ***Typical setup***
 - A set of operating points and related constraints ( Reynolds, Cl, AOA range, Max Sigma)
-- A set of global constraints ( Leading edge radius, Trailing edge angle, global T/C Range, T/C range at positoins along chord, max flap moment... )
+- A set of global constraints ( Leading edge radius, Trailing edge angle, global T/C Range, T/C range at positions along chord, max flap moment... )
 - Run conditions (ncrit)
 - Flap % Range
 
 ***Typical Outputs***
 - All sections geometries as .dat files
-- CSV of the performances of all produced section and sections parametrisation
+- CSV containing
+  - the performances of all produced sections at each operating point
+  - all  sections parametrisation
 
 
 CliMax's development started in 2018
