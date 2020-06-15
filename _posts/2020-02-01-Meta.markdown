@@ -31,6 +31,7 @@ It has since gone through several improvements and rewriting, such that is nothi
 It's now in a stable state.
 
 ***Meta GUI***
+
 [![Meta](\images\2020\02\Meta\MetaGUI.png?raw=true){:width="150px" }](\images\2020\02\Meta\MetaGUI.png)
 
 
