@@ -27,7 +27,7 @@ Some of the major features:
 
 
 Meta's development started in 2013 in a collaborative project involving Guillaume Verdier and Groupama Sailing team.
-It has since gone through several improvements and rewriting, such that is nothing left fro the original versoin.
+It has since gone through several improvements and rewriting, such that is nothing left from the original version.
 It's now in a stable state.
 
 ***Meta GUI***
