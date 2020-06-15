@@ -10,8 +10,8 @@
 
 
 <br/>
- 
- 
+
+
  [![Meta](https://github.com/bmuyl/assets/blob/master/Logos/Meta-Cosme/MetaLogo.png?raw=true){:height="60px" width="60px"}](\2020\02\01\Meta.html)
 
 **Meta** is a Static Velocity Prediction Program (VPP).
@@ -30,6 +30,8 @@ Meta's development started in 2013 in a collaborative project involving Guillaum
 It has since gone through several improvements and rewriting, such that is nothing left fro the original versoin.
 It's now in a stable state.
 
+***Meta GUI***
+[![Meta](\images\2020\02\Meta\MetaGUI.png?raw=true){:width="150px" }](\images\2020\02\Meta\MetaGUI.png)
 
 
 ###### Visit  [BenjaminMuylDesign Website](https://www.bmuyl.com)
