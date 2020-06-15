@@ -32,7 +32,7 @@ It's now in a stable state.
 
 ***Meta GUI***
 
-[![Meta](\images\2020\02\Meta\MetaGUI.png?raw=true){:width="150px" }](\images\2020\02\Meta\MetaGUI.png)
+[![Meta](\images\2020\02\Meta\MetaGUI.png?raw=true){:width="300px" }](\images\2020\02\Meta\MetaGUI.png)
 
 
 ###### Visit  [BenjaminMuylDesign Website](https://www.bmuyl.com)
