@@ -27,8 +27,8 @@ Some of the major features:
 
 
 Meta's development started in 2013 in a collaborative project involving Guillaume Verdier and Groupama Sailing team.
-It has since gone through several improvements and rewriting, such that is nothing left from the original version.
-It's now in a stable state.
+It has since gone through several improvements and rewriting, such that there is nothing left from the original version.
+It's now in a stable state and serves as a base framework for the developements of MetaSim, MetaOptimalPath...
 
 ***Meta GUI***
 
