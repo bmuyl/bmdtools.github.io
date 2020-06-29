@@ -1,12 +1,13 @@
 
-
-
 [![Meta](https://github.com/bmuyl/assets/blob/master/Logos/Meta-Cosme/MetaLogo.png?raw=true){:height="60px" width="60px"}](\2020\02\01\Meta.html)
 | [![MetaOptimalPath](https://github.com/bmuyl/assets/blob/master/Logos/Meta-Cosme/MetaOptimalPathLogo.png?raw=true){:height="60px" width="60px"}](\2020\02\01\MetaOptimalPath.html)
 | [![MetaSim](https://github.com/bmuyl/assets/blob/master/Logos/Meta-Cosme/MetaSimLogo.png?raw=true){:height="60px" width="60px"}](\2020\02\01\MetaSim.html)
 | [![Neptune](https://github.com/bmuyl/assets/blob/master/Logos/Meta-Cosme/NeptuneLogo.png?raw=true){:height="60px" width="60px"}](\2020\02\01\Neptune.html)
 | [![CliMax](https://github.com/bmuyl/assets/blob/master/Logos/Meta-Cosme/CliMaxLogo.png?raw=true){:height="60px" width="60px"}](\2020\02\01\CliMax.html)
-| [![FoilPerf](https://github.com/bmuyl/assets/blob/master/Logos/Meta-Cosme/FoilPerfLogo.png?raw=true){:height="60px" width="60px"}](\2020\02\01\FoilPerf.html)
+
+[![FoilPerf](https://github.com/bmuyl/assets/blob/master/Logos/Meta-Cosme/FoilPerfLogo.png?raw=true){:height="60px" width="60px"}](\2020\02\01\FoilPerf.html)
+| [![Fitting](https://github.com/bmuyl/assets/blob/master/Logos/Meta-Cosme/FittingLogo.png?raw=true){:height="60px" width="60px"}](\2020\02\01\Fitting.html)
+| [![Workflow](https://github.com/bmuyl/assets/blob/master/Logos/Meta-Cosme/WorkflowLogo.png?raw=true){:height="60px" width="60px"}](\2020\02\01\Workflow.html)
 | [![HydroRANS](https://github.com/bmuyl/assets/blob/master/Logos/Meta-Cosme/HydroRANSLogo.png?raw=true){:height="60px" width="60px"}](\2020\02\01\HydroRANS.html)
 | [![AeroRANS](https://github.com/bmuyl/assets/blob/master/Logos/Meta-Cosme/AeroRANSLogo.png?raw=true){:height="60px" width="60px"}](\2020\02\01\AeroRANS.html)
 
@@ -36,10 +37,10 @@
 
 ***Typical Outputs***
 
-[![AeroRANS](\images\2020\02\Neptune\Routes.png?raw=true){:width="150px" }](\images\2020\02\Neptune\Routes.png)
-|[![AeroRANS](\images\2020\02\Neptune\WindDistribution.png?raw=true){:width="150px"}](\images\2020\02\Neptune\WindDistribution.png)
-|[![AeroRANS](\images\2020\02\Neptune\Stats_1.png?raw=true){:width="150px"}](\images\2020\02\Neptune\Stats_1.png)
-|[![AeroRANS](\images\2020\02\Neptune\Stats_2.png?raw=true){:width="150px"}](\images\2020\02\Neptune\Stats_2.png)
+[![Neptune](\images\2020\02\Neptune\Routes.png?raw=true){:width="150px" }](\images\2020\02\Neptune\Routes.png)
+|[![Neptune](\images\2020\02\Neptune\WindDistribution.png?raw=true){:width="150px"}](\images\2020\02\Neptune\WindDistribution.png)
+|[![Neptune](\images\2020\02\Neptune\Stats_1.png?raw=true){:width="150px"}](\images\2020\02\Neptune\Stats_1.png)
+|[![Neptune](\images\2020\02\Neptune\Stats_2.png?raw=true){:width="150px"}](\images\2020\02\Neptune\Stats_2.png)
 
 **Neptune**'s development started in 2013, in a collaboration with Xavier Pillon. It has since been ported to Azure Cloud.
 

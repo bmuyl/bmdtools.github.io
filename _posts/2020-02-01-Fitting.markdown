@@ -14,27 +14,8 @@
 <br/>
 
 
- [![Meta](https://github.com/bmuyl/assets/blob/master/Logos/Meta-Cosme/MetaLogo.png?raw=true){:height="60px" width="60px"}](\2020\02\01\Meta.html)
+[![Workflow](https://github.com/bmuyl/assets/blob/master/Logos/Meta-Cosme/FittingLogo.png?raw=true){:height="60px" width="60px"}](\2020\02\01\Fitting.html)
 
-**Meta** is a Static Velocity Prediction Program (VPP).
-
-It is a tool for finding optimum static equilibriums.
-Although we use it for boat design in our daily work, it is actually agnostic on the type of mobile it's dealing with.
-Motor boats, sailing boats, Flying Drones, submarines, planes.. can all be adressed with Meta.
-
-Some of the major features:
-- mobile agnostic
-- force model based
-- able to account for structural deformations
-
-
-Meta's development started in 2013 in a collaborative project involving Guillaume Verdier and Groupama Sailing team.
-It has since gone through several improvements and rewriting, such that there is nothing left from the original version.
-It's now in a stable state and serves as a base framework for the developements of MetaSim, MetaOptimalPath...
-
-***Meta GUI***
-
-[![Meta](\images\2020\02\Meta\MetaGUI.png?raw=true){:width="300px" }](\images\2020\02\Meta\MetaGUI.png)
-
+ **Fitting** is under development.
 
 ###### Visit  [BenjaminMuylDesign Website](https://www.bmuyl.com)
