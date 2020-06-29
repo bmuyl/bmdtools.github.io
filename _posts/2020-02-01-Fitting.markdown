@@ -16,6 +16,14 @@
 
 [![Workflow](https://github.com/bmuyl/assets/blob/master/Logos/Meta-Cosme/FittingLogo.png?raw=true){:height="60px" width="60px"}](\2020\02\01\Fitting.html)
 
- **Fitting** is under development.
+ **Fitting** is a tool to develop surrogate models or responses surfaces from data points.
+All usual methods are available:
+- Polynomial
+- RBF
+- Krigging
+- Neural network
+
+as well as a automated process to identify the best method for each situation and to optimise the input parameters to get the best fit.
+
 
 ###### Visit  [BenjaminMuylDesign Website](https://www.bmuyl.com)
