@@ -22,17 +22,28 @@ It is our a for designing, modeling and evaluating the performance of appendages
 
 
 
-Some of the major features:
+***Major features***
 - modular
-- Lifting line based
+- Lifting line or AVL based
 - Xfoil automation for producing foil sections polars for later use on appendages
-- model export to Meta
+- interfaced with Meta
+- FSI
 - postprocessing tool
 
+***Typical setup***
+- define rondure shape as assembly of circles and lines or as spline
+- affect foil sections
+- define chords, rotation of each sections
+- affect strutural properties
+- produce foil section polars
+- define operating point
+- Alternatively, meta can be used to optimise the shape or structure based on the defined topology
 
-**FoilPerf**'s development started in 2019.
 
+***Typical Outputs***
+|[![Foilperf](\images\2020\02\Foilperf\Foilperf1.png?raw=true){:width="150px"}](\images\2020\02\Foilperf\Foilperf1.png)
 
+|[![Foilperf](\images\2020\02\Foilperf\Foilperf2.png?raw=true){:width="150px"}](\images\2020\02\Foilperf\Foilperf2.png)
 
 
 
