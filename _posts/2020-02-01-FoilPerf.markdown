@@ -43,8 +43,7 @@ It is our a for designing, modeling and evaluating the performance of appendages
 ***Typical Outputs***
 
 [![Foilperf](\images\2020\02\FoilPerf\Foilperf1.png?raw=true){:width="150px"}](\images\2020\02\FoilPerf\Foilperf1.png)
-
-[![Foilperf](\images\2020\02\FoilPerf\Foilperf2.png?raw=true){:width="150px"}](\images\2020\02\FoilPerf\Foilperf2.png)
+| [![Foilperf](\images\2020\02\FoilPerf\Foilperf2.png?raw=true){:width="150px"}](\images\2020\02\FoilPerf\Foilperf2.png)
 
 
 
