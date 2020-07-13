@@ -1,5 +1,5 @@
 [![Meta](https://github.com/bmuyl/assets/blob/master/Logos/Meta-Cosme/MetaLogo.png?raw=true){:height="60px" width="60px"}](\2020\02\01\Meta.html)
-| [![MetaOptimalPath](https://github.com/bmuyl/assets/blob/master/Logos/Meta-Cosme/MetaOptimalPathLogo.png?raw=true){:height="60px" width="60px"}](\2020\02\01\MetaOptimalPath.html)
+| [![Motion](https://github.com/bmuyl/assets/blob/master/Logos/Meta-Cosme/MotionLogo.png?raw=true){:height="60px" width="60px"}](\2020\02\01\Motion.html)
 | [![MetaSim](https://github.com/bmuyl/assets/blob/master/Logos/Meta-Cosme/MetaSimLogo.png?raw=true){:height="60px" width="60px"}](\2020\02\01\MetaSim.html)
 | [![Neptune](https://github.com/bmuyl/assets/blob/master/Logos/Meta-Cosme/NeptuneLogo.png?raw=true){:height="60px" width="60px"}](\2020\02\01\Neptune.html)
 | [![CliMax](https://github.com/bmuyl/assets/blob/master/Logos/Meta-Cosme/CliMaxLogo.png?raw=true){:height="60px" width="60px"}](\2020\02\01\CliMax.html)
@@ -30,7 +30,7 @@ Some of the major features:
 
 Meta's development started in 2013 in a collaborative project involving Guillaume Verdier and Groupama Sailing team.
 It has since gone through several improvements and rewriting, such that there is nothing left from the original version.
-It's now in a stable state and serves as a base framework for the developements of MetaSim, MetaOptimalPath...
+It's now in a stable state and serves as a base framework for the developements of MetaSim, Motion...
 
 ***Meta GUI***
 

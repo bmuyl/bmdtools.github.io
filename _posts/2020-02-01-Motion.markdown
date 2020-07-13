@@ -1,5 +1,5 @@
 [![Meta](https://github.com/bmuyl/assets/blob/master/Logos/Meta-Cosme/MetaLogo.png?raw=true){:height="60px" width="60px"}](\2020\02\01\Meta.html)
-| [![MetaOptimalPath](https://github.com/bmuyl/assets/blob/master/Logos/Meta-Cosme/MetaOptimalPathLogo.png?raw=true){:height="60px" width="60px"}](\2020\02\01\MetaOptimalPath.html)
+| [![Motion](https://github.com/bmuyl/assets/blob/master/Logos/Meta-Cosme/MotionLogo.png?raw=true){:height="60px" width="60px"}](\2020\02\01\Motion.html)
 | [![MetaSim](https://github.com/bmuyl/assets/blob/master/Logos/Meta-Cosme/MetaSimLogo.png?raw=true){:height="60px" width="60px"}](\2020\02\01\MetaSim.html)
 | [![Neptune](https://github.com/bmuyl/assets/blob/master/Logos/Meta-Cosme/NeptuneLogo.png?raw=true){:height="60px" width="60px"}](\2020\02\01\Neptune.html)
 | [![CliMax](https://github.com/bmuyl/assets/blob/master/Logos/Meta-Cosme/CliMaxLogo.png?raw=true){:height="60px" width="60px"}](\2020\02\01\CliMax.html)
@@ -12,9 +12,9 @@
 
 <br/>
 
- [![MetaOptimalPath](https://github.com/bmuyl/assets/blob/master/Logos/Meta-Cosme/MetaOptimalPathLogo.png?raw=true){:height="60px" width="60px"}](\2020\02\01\MetaOptimalPath.html)
+ [![Motion](https://github.com/bmuyl/assets/blob/master/Logos/Meta-Cosme/MotionLogo.png?raw=true){:height="60px" width="60px"}](\2020\02\01\Motion.html)
 
-**MetaOptimalPath** is a tool for optimising trajectories of parameters of a system along time. **MetaOptimalPath** is under active development.
+**Motion** is a tool for optimising trajectories of parameters of a system along time. **Motion** is under active development.
 Although we use it for boat design in our daily work, it is actually agnostic on the type of system it's dealing with.
 Motor boats, sailing boats, Flying Drones, submarines, planes.. can all be adressed with Meta.
 
@@ -28,7 +28,7 @@ Some of the major features:
 
 
 
-**MetaOptimalPath**'s development started in 2019.
+**Motion**'s development started in 2019.
 
 
 
