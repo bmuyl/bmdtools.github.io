@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Meta Simulation tools
+title: Meta Simulation Suite
 email: bmuyl@mac.com
 description: >- # this means to ignore newlines until "baseurl:"
   Simulation tools developped by BMD's team
