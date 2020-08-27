@@ -29,7 +29,6 @@ Some of the major features:
 [![Meta](\images\2020\02\Motion\FFSImage1.png?raw=true){:height="200px" }](\images\2020\02\Motion\FFSImage1.png)
 [![Meta](\images\2020\02\Motion\FFSImage2.png?raw=true){:height="200px" }](\images\2020\02\Motion\FFSImage2.png)
 
-**Motion**'s development started in 2019.
 
 
 
