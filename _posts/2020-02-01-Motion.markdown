@@ -26,7 +26,8 @@ Some of the major features:
 - response surface or analytical model based
 - ..
 
-
+[![Meta](\images\2020\02\Motion\FFSImage1.png?raw=true){:width="300px" }](\images\2020\02\Motion\FFSImage1.png)
+[![Meta](\images\2020\02\Motion\FFSImage2.png?raw=true){:width="300px" }](\images\2020\02\Motion\FFSImage2.png)
 
 **Motion**'s development started in 2019.
 
